@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SAMPATHI-SRIKANTH
-- 👀 I’m interested in Frontend Development 
-- 🌱 I’m currently learning NodeJs,ReactJs 
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning NodeJs,ReactJs ,Azure 
 - 💞️ I’m looking to collaborate on frontend projects
 
 <!---
